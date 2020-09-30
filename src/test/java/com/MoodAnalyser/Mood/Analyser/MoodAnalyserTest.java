@@ -1,3 +1,5 @@
+/*  Welcome to the MOOD ANALYSER Problem */
+
 package com.MoodAnalyser.Mood.Analyser;
 
 import static org.junit.Assert.assertTrue;
